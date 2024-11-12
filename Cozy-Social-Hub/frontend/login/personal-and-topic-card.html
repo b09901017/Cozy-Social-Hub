@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>個人資訊 & 話題建立</title>
+    <link rel="stylesheet" href="Personal-and-topic-card.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card-id">
+            卡片 ID：<span id="card-id">載入中...</span>
+        </div>
+
+        <div class="toggle-container">
+            <div class="toggle-btn active" data-section="profile">個人資訊</div>
+            <div class="toggle-btn" data-section="topic">建立話題</div>
+        </div>
+
+        <div class="form-section active" id="profile-section">
+            <div class="input-group">
+                <label>暱稱</label>
+                <input type="text" id="nickname" placeholder="讓其他人如何稱呼你">
+            </div>
+
+            <div class="input-group">
+                <label>年齡層</label>
+                <select id="age-range">
+                    <option value="">請選擇年齡層</option>
+                    <option value="18-24">18-24歲</option>
+                    <option value="25-34">25-34歲</option>
+                    <option value="35-44">35-44歲</option>
+                    <option value="45+">45歲以上</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>職業類型</label>
+                <select id="occupation">
+                    <option value="">請選擇職業類型</option>
+                    <option value="student">學生</option>
+                    <option value="tech">科技業</option>
+                    <option value="finance">金融業</option>
+                    <option value="education">教育業</option>
+                    <option value="other">其他</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label>興趣（可複選）</label>
+                <div class="tags-container" id="interests">
+                    <div class="tag" data-value="reading">閱讀</div>
+                    <div class="tag" data-value="music">音樂</div>
+                    <div class="tag" data-value="sports">運動</div>
+                    <div class="tag" data-value="travel">旅遊</div>
+                    <div class="tag" data-value="food">美食</div>
+                    <div class="tag" data-value="movie">電影</div>
+                    <div class="tag" data-value="tech">科技</div>
+                    <div class="tag" data-value="art">藝術</div>
+                </div>
+                <div class="custom-interest-input">
+                    <input type="text" id="custom-interest" placeholder="輸入自定義興趣，用逗號分隔">
+                    <button type="button" id="add-interest">新增</button>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <label>常來時段（可複選）</label>
+                <div class="time-slots" id="time-slots">
+                    <div class="time-slot" data-value="morning">早上</div>
+                    <div class="time-slot" data-value="afternoon">下午</div>
+                    <div class="time-slot" data-value="evening">晚上</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-section" id="topic-section">
+            <div class="input-group">
+                <label>話題主旨</label>
+                <input type="text" id="topic-title" placeholder="簡短描述你想聊的主題">
+            </div>
+
+            <div class="input-group">
+                <label>Gmail</label>
+                <input type="email" id="topic-gmail" placeholder="請輸入您的 Gmail">
+            </div>
+
+            <div class="input-group">
+                <label>預期人數下限</label>
+                <input type="number" id="topic-min-attendees" min="1" placeholder="請輸入預期最少參與人數">
+            </div>
+
+            <div class="input-group">
+                <label>話題類型（可複選）</label>
+                <div class="tags-container" id="topic-tags">
+                    <div class="tag" data-value="life">生活</div>
+                    <div class="tag" data-value="work">工作</div>
+                    <div class="tag" data-value="hobby">興趣</div>
+                    <div class="tag" data-value="culture">文化</div>
+                    <div class="tag" data-value="tech">科技</div>
+                    <div class="tag" data-value="society">社會</div>
+                </div>
+                <div class="custom-interest-input">
+                    <input type="text" id="custom-topic-type" placeholder="輸入自定義話題類型，用逗號分隔">
+                    <button type="button" id="add-topic-type">新增</button>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <label>補充說明</label>
+                <textarea id="topic-description" placeholder="請描述一下話題內容，以及期待聊天的對象類型..."></textarea>
+            </div>
+        </div>
+
+        <button class="save-btn">儲存</button>
+    </div>
+
+    <script src="Personal-and-topic-card.js"></script>
+</body>
+</html> 

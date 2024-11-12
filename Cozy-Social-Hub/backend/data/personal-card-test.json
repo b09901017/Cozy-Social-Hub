@@ -1,0 +1,482 @@
+{
+  "042B5A2ACE1190": {
+    "nickname": "阿華",
+    "ageRange": "25-34",
+    "occupation": "科技業",
+    "interests": {
+      "default": [
+        "tech",
+        "reading",
+        "music"
+      ],
+      "custom": [
+        "寫程式",
+        "攝影"
+      ]
+    },
+    "timeSlots": [
+      "morning",
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "createdAt": "2024-01-20T14:00:00.000Z"
+        }
+      ],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T14:00:00.000Z"
+  },
+  "042B5A2ACE1191": {
+    "nickname": "小美",
+    "ageRange": "18-24",
+    "occupation": "學生",
+    "interests": {
+      "default": [
+        "reading",
+        "art",
+        "music"
+      ],
+      "custom": [
+        "手作",
+        "插畫"
+      ]
+    },
+    "timeSlots": [
+      "afternoon",
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "joinedAt": "2024-01-20T14:35:00.000Z"
+        }
+      ],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T14:35:00.000Z"
+  },
+  "042B5A2ACE1192": {
+    "nickname": "大雄",
+    "ageRange": "25-34",
+    "occupation": "教育業",
+    "interests": {
+      "default": [
+        "sports",
+        "travel",
+        "reading"
+      ],
+      "custom": [
+        "登山",
+        "露營"
+      ]
+    },
+    "timeSlots": [
+      "morning",
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [
+        {
+          "topicId": "042B5A2ACE1192",
+          "title": "分享戶外活動經驗",
+          "createdAt": "2024-01-20T15:00:00.000Z"
+        }
+      ],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T15:00:00.000Z"
+  },
+  "042B5A2ACE1193": {
+    "nickname": "小明",
+    "ageRange": "18-24",
+    "occupation": "學生",
+    "interests": {
+      "default": [
+        "tech",
+        "reading"
+      ],
+      "custom": [
+        "程式設計"
+      ]
+    },
+    "timeSlots": [
+      "morning",
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "joinedAt": "2024-01-20T14:40:00.000Z"
+        }
+      ],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T14:40:00.000Z"
+  },
+  "042B5A2ACE1194": {
+    "nickname": "小華",
+    "ageRange": "25-34",
+    "occupation": "科技業",
+    "interests": {
+      "default": [
+        "tech",
+        "music"
+      ],
+      "custom": [
+        "AI",
+        "機器學習"
+      ]
+    },
+    "timeSlots": [
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "joinedAt": "2024-01-20T14:45:00.000Z"
+        }
+      ],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T14:45:00.000Z"
+  },
+  "042B5A2ACE1195": {
+    "nickname": "小傑",
+    "ageRange": "18-24",
+    "occupation": "學生",
+    "interests": {
+      "default": [
+        "sports",
+        "travel"
+      ],
+      "custom": [
+        "健身",
+        "攝影"
+      ]
+    },
+    "timeSlots": [
+      "afternoon",
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1192",
+          "title": "分享戶外活動經驗",
+          "joinedAt": "2024-01-20T15:10:00.000Z"
+        }
+      ],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T15:10:00.000Z"
+  },
+  "042B5A2ACE1196": {
+    "nickname": "小玉",
+    "ageRange": "25-34",
+    "occupation": "教育業",
+    "interests": {
+      "default": [
+        "sports",
+        "reading"
+      ],
+      "custom": [
+        "瑜珈",
+        "登山"
+      ]
+    },
+    "timeSlots": [
+      "morning",
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1192",
+          "title": "分享戶外活動經驗",
+          "joinedAt": "2024-01-20T15:15:00.000Z"
+        }
+      ],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T15:15:00.000Z"
+  },
+  "042B5A2ACE1197": {
+    "nickname": "小光",
+    "ageRange": "18-24",
+    "occupation": "學生",
+    "interests": {
+      "default": [
+        "music",
+        "art"
+      ],
+      "custom": [
+        "吉他",
+        "創作"
+      ]
+    },
+    "timeSlots": [
+      "afternoon",
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [
+        {
+          "topicId": "042B5A2ACE1197",
+          "title": "音樂創作交流",
+          "createdAt": "2024-01-20T16:00:00.000Z"
+        }
+      ],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T16:00:00.000Z"
+  },
+  "042B5A2ACE1198": {
+    "nickname": "小琳",
+    "ageRange": "18-24",
+    "occupation": "學生",
+    "interests": {
+      "default": [
+        "music",
+        "art"
+      ],
+      "custom": [
+        "鋼琴",
+        "作曲"
+      ]
+    },
+    "timeSlots": [
+      "afternoon",
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1197",
+          "title": "音樂創作交流",
+          "joinedAt": "2024-01-20T16:10:00.000Z"
+        }
+      ],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T16:10:00.000Z"
+  },
+  "042B5A2ACE1199": {
+    "nickname": "小凱",
+    "ageRange": "18-24",
+    "occupation": "學生",
+    "interests": {
+      "default": [
+        "music",
+        "tech"
+      ],
+      "custom": [
+        "電子音樂",
+        "混音"
+      ]
+    },
+    "timeSlots": [
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1197",
+          "title": "音樂創作交流",
+          "joinedAt": "2024-01-20T16:15:00.000Z"
+        }
+      ],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-20T16:15:00.000Z"
+  },
+  "042B5A2ACE1200": {
+    "nickname": "阿信",
+    "ageRange": "25-34",
+    "occupation": "音樂工作者",
+    "interests": {
+      "default": [
+        "music",
+        "art"
+      ],
+      "custom": [
+        "作詞",
+        "作曲",
+        "演唱"
+      ]
+    },
+    "timeSlots": [
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-19T10:00:00.000Z"
+  },
+  "042B5A2ACE1201": {
+    "nickname": "小綠",
+    "ageRange": "18-24",
+    "occupation": "設計師",
+    "interests": {
+      "default": [
+        "art",
+        "reading"
+      ],
+      "custom": [
+        "平面設計",
+        "插畫"
+      ]
+    },
+    "timeSlots": [
+      "morning",
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-19T11:30:00.000Z"
+  },
+  "042B5A2ACE1202": {
+    "nickname": "大文",
+    "ageRange": "35-44",
+    "occupation": "作家",
+    "interests": {
+      "default": [
+        "reading",
+        "art",
+        "travel"
+      ],
+      "custom": [
+        "寫作",
+        "攝影"
+      ]
+    },
+    "timeSlots": [
+      "morning"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-01-19T14:20:00.000Z"
+  },
+  "test001": {
+    "nickname": "話題建立者測試",
+    "ageRange": "25-34",
+    "occupation": "finance",
+    "interests": {
+      "default": [],
+      "custom": [
+        "話題建立者"
+      ]
+    },
+    "timeSlots": [
+      "morning",
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [
+        {
+          "topicId": "test001",
+          "title": "test001的話題",
+          "createdAt": "2024-11-12T06:39:43.265Z",
+          "endedAt": "2024-11-12T07:27:12.969Z",
+          "endReason": "host_left"
+        }
+      ],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "joinedAt": "2024-11-12T07:32:06.627Z"
+        }
+      ],
+      "currentActivities": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "registrationPoint": "A",
+          "registeredAt": "2024-11-12T07:31:24.276Z",
+          "completed": true,
+          "completedAt": "2024-11-12T07:32:06.627Z"
+        }
+      ]
+    },
+    "lastUpdated": "2024-11-12T06:39:43.252Z"
+  },
+  "test002": {
+    "nickname": "沒有話題者測試",
+    "ageRange": "18-24",
+    "occupation": "education",
+    "interests": {
+      "default": [
+        "reading",
+        "music"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "morning",
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "joinedAt": "2024-11-12T07:35:07.537Z"
+        },
+        {
+          "topicId": "042B5A2ACE1192",
+          "title": "分享戶外活動經驗",
+          "joinedAt": "2024-11-12T07:42:08.593Z"
+        }
+      ],
+      "currentActivities": [
+        {
+          "topicId": "042B5A2ACE1190",
+          "title": "聊聊遠端工作的經驗",
+          "registrationPoint": "A",
+          "registeredAt": "2024-11-12T07:34:38.730Z",
+          "completed": true,
+          "completedAt": "2024-11-12T07:35:07.537Z"
+        },
+        {
+          "topicId": "042B5A2ACE1192",
+          "title": "分享戶外活動經驗",
+          "registrationPoint": "B",
+          "registeredAt": "2024-11-12T07:41:30.940Z",
+          "status": "pending",
+          "completed": true,
+          "completedAt": "2024-11-12T07:42:08.593Z"
+        }
+      ]
+    },
+    "lastUpdated": "2024-11-12T07:33:40.153Z"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "042B5A2ACE1190": {
+    "title": "聊聊遠端工作的經驗",
+    "gmail": "ahua@gmail.com",
+    "minAttendees": 5,
+    "types": {
+      "default": [
+        "work",
+        "tech"
+      ],
+      "custom": [
+        "職涯發展"
+      ]
+    },
+    "description": "分享在家工作的心得，討論如何維持工作效率和生活平衡。",
+    "registrationPoint": "A",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "042B5A2ACE1190",
+          "nickname": "阿華"
+        },
+        {
+          "id": "test001",
+          "nickname": "話題建立者測試"
+        },
+        {
+          "id": "test002",
+          "nickname": "沒有話題者測試"
+        }
+      ],
+      "attendeeCount": 3,
+      "host": {
+        "id": "042B5A2ACE1190",
+        "nickname": "阿華",
+        "gmail": "ahua@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": [
+          {
+            "cardId": "test002",
+            "timestamp": "2024-11-12T07:41:22.845Z"
+          }
+        ]
+      }
+    },
+    "createdAt": "2024-01-20T14:00:00.000Z",
+    "lastUpdated": "2024-01-20T14:45:00.000Z"
+  },
+  "042B5A2ACE1192": {
+    "title": "分享戶外活動經驗",
+    "gmail": "daxiong@gmail.com",
+    "minAttendees": 3,
+    "types": {
+      "default": [
+        "hobby",
+        "sports"
+      ],
+      "custom": [
+        "戶外活動"
+      ]
+    },
+    "description": "想和大家分享登山、露營的經驗，討論裝備選擇和安全注意事項。",
+    "registrationPoint": "B",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "042B5A2ACE1192",
+          "nickname": "大雄"
+        },
+        {
+          "id": "test002",
+          "nickname": "沒有話題者測試"
+        }
+      ],
+      "attendeeCount": 2,
+      "host": {
+        "id": "042B5A2ACE1192",
+        "nickname": "大雄",
+        "gmail": "daxiong@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": []
+      }
+    },
+    "createdAt": "2024-01-20T15:00:00.000Z",
+    "lastUpdated": "2024-01-20T15:15:00.000Z"
+  },
+  "042B5A2ACE1197": {
+    "title": "音樂創作交流",
+    "gmail": "light@gmail.com",
+    "minAttendees": 4,
+    "types": {
+      "default": [
+        "music",
+        "art"
+      ],
+      "custom": [
+        "創作"
+      ]
+    },
+    "description": "交流音樂創作心得，分享自己的作品，討論創作技巧。",
+    "registrationPoint": "C",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "042B5A2ACE1197",
+          "nickname": "小光"
+        }
+      ],
+      "attendeeCount": 1,
+      "host": {
+        "id": "042B5A2ACE1197",
+        "nickname": "小光",
+        "gmail": "light@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": []
+      }
+    },
+    "createdAt": "2024-01-20T16:00:00.000Z",
+    "lastUpdated": "2024-01-20T16:15:00.000Z"
+  },
+  "042B5A2ACE1203": {
+    "title": "咖啡品味與烘焙",
+    "gmail": "coffee.master@gmail.com",
+    "minAttendees": 4,
+    "types": {
+      "default": [
+        "hobby",
+        "food"
+      ],
+      "custom": [
+        "咖啡",
+        "烘焙"
+      ]
+    },
+    "description": "探討不同產地咖啡豆的特色，分享烘焙心得，一起品嚐自己烘焙的咖啡。",
+    "registrationPoint": "D",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "042B5A2ACE1203",
+          "nickname": "小黑"
+        }
+      ],
+      "attendeeCount": 1,
+      "host": {
+        "id": "042B5A2ACE1203",
+        "nickname": "小黑",
+        "gmail": "coffee.master@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": []
+      }
+    },
+    "createdAt": "2024-01-19T10:00:00.000Z",
+    "lastUpdated": "2024-01-19T10:00:00.000Z"
+  },
+  "042B5A2ACE1204": {
+    "title": "攝影技巧交流",
+    "gmail": "photo.lover@gmail.com",
+    "minAttendees": 3,
+    "types": {
+      "default": [
+        "art",
+        "hobby"
+      ],
+      "custom": [
+        "攝影",
+        "後製"
+      ]
+    },
+    "description": "分享攝影技巧和後製經驗，討論器材選擇，也可以約拍。",
+    "registrationPoint": "E",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "042B5A2ACE1204",
+          "nickname": "小白"
+        }
+      ],
+      "attendeeCount": 1,
+      "host": {
+        "id": "042B5A2ACE1204",
+        "nickname": "小白",
+        "gmail": "photo.lover@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": []
+      }
+    },
+    "createdAt": "2024-01-19T11:00:00.000Z",
+    "lastUpdated": "2024-01-19T11:00:00.000Z"
+  },
+  "test001": {
+    "title": "test001的話題",
+    "gmail": "test001@gmail.com",
+    "minAttendees": "2",
+    "types": {
+      "default": [
+        "society"
+      ],
+      "custom": [
+        "test001"
+      ]
+    },
+    "description": "補充說明",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "test001",
+          "nickname": "話題建立者測試"
+        }
+      ],
+      "attendeeCount": 1,
+      "host": {
+        "id": "test001",
+        "nickname": "話題建立者測試",
+        "gmail": "test001@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": false,
+        "pendingRegistrations": []
+      },
+      "hostLeft": true,
+      "hostLeftAt": "2024-11-12T07:27:12.968Z"
+    },
+    "createdAt": "2024-11-12T06:39:43.265Z",
+    "lastUpdated": "2024-11-12T06:39:43.265Z",
+    "registrationPoint": "D"
+  }
+}

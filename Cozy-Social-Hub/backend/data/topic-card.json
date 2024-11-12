@@ -1,0 +1,125 @@
+{
+  "test001": {
+    "title": "test001測試",
+    "gmail": "test@gmail.com",
+    "minAttendees": 3,
+    "types": {
+      "default": [
+        "culture"
+      ],
+      "custom": []
+    },
+    "description": "話題測試卡001",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "test001",
+          "nickname": "話題測試卡001"
+        },
+        {
+          "id": "test002",
+          "nickname": "沒有話題卡002"
+        }
+      ],
+      "attendeeCount": 2,
+      "host": {
+        "id": "test001",
+        "nickname": "話題測試卡001",
+        "gmail": "test@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": []
+      }
+    },
+    "createdAt": "2024-11-12T08:30:28.693Z",
+    "lastUpdated": "2024-11-12T08:30:28.693Z",
+    "registrationPoint": "A"
+  },
+  "test005": {
+    "title": "路人5的測試話題",
+    "gmail": "test005@gmail.com",
+    "minAttendees": 2,
+    "types": {
+      "default": [
+        "work",
+        "hobby"
+      ],
+      "custom": []
+    },
+    "description": "這是補充說明",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "test005",
+          "nickname": "路人5(有話題)"
+        }
+      ],
+      "attendeeCount": 1,
+      "host": {
+        "id": "test005",
+        "nickname": "路人5(有話題)",
+        "gmail": "test005@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": []
+      }
+    },
+    "createdAt": "2024-11-12T08:48:49.137Z",
+    "lastUpdated": "2024-11-12T08:48:49.137Z"
+  },
+  "GmailTest001": {
+    "title": "你知道如何讓gmail測試成功嗎",
+    "gmail": "t102836t102836@gmail.com",
+    "minAttendees": 3,
+    "types": {
+      "default": [
+        "life",
+        "work",
+        "測試"
+      ],
+      "custom": [
+        "測試×"
+      ]
+    },
+    "description": "這是一個測試",
+    "status": {
+      "currentAttendees": [
+        {
+          "id": "GmailTest001",
+          "nickname": "gmail測試(有話題的)"
+        },
+        {
+          "id": "test007",
+          "nickname": "路人7"
+        },
+        {
+          "id": "test006",
+          "nickname": "路人6"
+        },
+        {
+          "id": "test003",
+          "nickname": "路人3"
+        }
+      ],
+      "attendeeCount": 4,
+      "host": {
+        "id": "GmailTest001",
+        "nickname": "gmail測試(有話題的)",
+        "gmail": "t102836t102836@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": true,
+        "pendingRegistrations": []
+      }
+    },
+    "createdAt": "2024-11-12T12:10:50.860Z",
+    "lastUpdated": "2024-11-12T12:10:50.860Z",
+    "registrationPoint": "B",
+    "minimumReached": true
+  }
+}

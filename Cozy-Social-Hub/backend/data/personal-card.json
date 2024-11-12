@@ -1,0 +1,244 @@
+{
+  "test001": {
+    "nickname": "話題測試卡001",
+    "ageRange": "18-24",
+    "occupation": "finance",
+    "interests": {
+      "default": [
+        "music"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "morning"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-11-12T08:30:28.702Z"
+  },
+  "test002": {
+    "nickname": "沒有話題卡002",
+    "ageRange": "25-34",
+    "occupation": "student",
+    "interests": {
+      "default": [
+        "music"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "test001",
+          "title": "test001測試",
+          "joinedAt": "2024-11-12T08:34:57.262Z",
+          "leftAt": "2024-11-12T08:45:54.408Z",
+          "endReason": "user_left"
+        },
+        {
+          "topicId": "test001",
+          "title": "test001測試",
+          "joinedAt": "2024-11-12T08:43:12.829Z"
+        },
+        {
+          "topicId": "test001",
+          "title": "test001測試",
+          "joinedAt": "2024-11-12T08:46:17.975Z"
+        }
+      ],
+      "currentActivities": [
+        {
+          "topicId": "test001",
+          "title": "test001測試",
+          "registrationPoint": "A",
+          "registeredAt": "2024-11-12T08:46:04.977Z",
+          "status": "pending",
+          "completed": true,
+          "completedAt": "2024-11-12T08:46:17.975Z"
+        }
+      ]
+    },
+    "lastUpdated": "2024-11-12T08:33:56.197Z"
+  },
+  "test003": {
+    "nickname": "路人3",
+    "ageRange": "35-44",
+    "occupation": "student",
+    "interests": {
+      "default": [
+        "music"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "GmailTest001",
+          "title": "你知道如何讓gmail測試成功嗎",
+          "joinedAt": "2024-11-12T12:16:01.823Z"
+        }
+      ],
+      "currentActivities": [
+        {
+          "topicId": "GmailTest001",
+          "title": "你知道如何讓gmail測試成功嗎",
+          "registrationPoint": "B",
+          "registeredAt": "2024-11-12T12:15:44.338Z",
+          "status": "pending",
+          "completed": true,
+          "completedAt": "2024-11-12T12:16:01.823Z"
+        }
+      ]
+    },
+    "lastUpdated": "2024-11-12T08:47:11.261Z"
+  },
+  "test004": {
+    "nickname": "路人4",
+    "ageRange": "18-24",
+    "occupation": "tech",
+    "interests": {
+      "default": [
+        "music",
+        "sports"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-11-12T08:47:30.590Z"
+  },
+  "test005": {
+    "nickname": "路人5(有話題)",
+    "ageRange": "18-24",
+    "occupation": "education",
+    "interests": {
+      "default": [
+        "music"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-11-12T08:48:49.147Z"
+  },
+  "GmailTest001": {
+    "nickname": "gmail測試(有話題的)",
+    "ageRange": "18-24",
+    "occupation": "tech",
+    "interests": {
+      "default": [
+        "reading",
+        "music"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-11-12T12:10:50.886Z"
+  },
+  "test006": {
+    "nickname": "路人6",
+    "ageRange": "35-44",
+    "occupation": "tech",
+    "interests": {
+      "default": [
+        "music",
+        "sports"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "morning"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "GmailTest001",
+          "title": "你知道如何讓gmail測試成功嗎",
+          "joinedAt": "2024-11-12T12:14:16.806Z"
+        }
+      ],
+      "currentActivities": [
+        {
+          "topicId": "GmailTest001",
+          "title": "你知道如何讓gmail測試成功嗎",
+          "registrationPoint": "B",
+          "registeredAt": "2024-11-12T12:13:39.363Z",
+          "status": "pending",
+          "completed": true,
+          "completedAt": "2024-11-12T12:14:16.806Z"
+        }
+      ]
+    },
+    "lastUpdated": "2024-11-12T12:12:17.780Z"
+  },
+  "test007": {
+    "nickname": "路人7",
+    "ageRange": "25-34",
+    "occupation": "finance",
+    "interests": {
+      "default": [
+        "travel",
+        "food"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [
+        {
+          "topicId": "GmailTest001",
+          "title": "你知道如何讓gmail測試成功嗎",
+          "joinedAt": "2024-11-12T12:14:09.950Z"
+        }
+      ],
+      "currentActivities": [
+        {
+          "topicId": "GmailTest001",
+          "title": "你知道如何讓gmail測試成功嗎",
+          "registrationPoint": "B",
+          "registeredAt": "2024-11-12T12:13:48.926Z",
+          "status": "pending",
+          "completed": true,
+          "completedAt": "2024-11-12T12:14:09.950Z"
+        }
+      ]
+    },
+    "lastUpdated": "2024-11-12T12:12:37.615Z"
+  }
+}
