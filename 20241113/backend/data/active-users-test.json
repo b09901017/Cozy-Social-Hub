@@ -1,0 +1,356 @@
+{
+  "activeUsers": [
+    {
+      "cardId": "042B5A2ACE1190",
+      "timestamp": "2024-01-20T14:00:00.000Z",
+      "personalInfo": {
+        "nickname": "阿華",
+        "ageRange": "25-34",
+        "occupation": "科技業",
+        "interests": {
+          "default": [
+            "tech",
+            "reading",
+            "music"
+          ],
+          "custom": [
+            "寫程式",
+            "攝影"
+          ]
+        },
+        "timeSlots": [
+          "morning",
+          "evening"
+        ],
+        "history": {
+          "createdTopics": [
+            {
+              "topicId": "042B5A2ACE1190",
+              "title": "聊聊遠端工作的經驗",
+              "createdAt": "2024-01-20T14:00:00.000Z"
+            }
+          ],
+          "joinedTopics": [],
+          "currentActivities": []
+        }
+      },
+      "topic": {
+        "title": "聊聊遠端工作的經驗",
+        "gmail": "ahua@gmail.com",
+        "minAttendees": 5,
+        "registrationPoint": "A",
+        "types": {
+          "default": [
+            "work",
+            "tech"
+          ],
+          "custom": [
+            "職涯發展"
+          ]
+        },
+        "description": "分享在家工作的心得，討論如何維持工作效率和生活平衡。",
+        "status": {
+          "currentAttendees": [
+            {
+              "id": "042B5A2ACE1190",
+              "nickname": "阿華"
+            }
+          ],
+          "attendeeCount": 1,
+          "host": {
+            "id": "042B5A2ACE1190",
+            "nickname": "阿華",
+            "gmail": "ahua@gmail.com"
+          },
+          "comments": [],
+          "registrationStatus": {
+            "isOpen": true,
+            "pendingRegistrations": []
+          }
+        }
+      }
+    },
+    {
+      "cardId": "042B5A2ACE1192",
+      "timestamp": "2024-01-20T15:00:00.000Z",
+      "personalInfo": {
+        "nickname": "大雄",
+        "ageRange": "25-34",
+        "occupation": "教育業",
+        "interests": {
+          "default": [
+            "sports",
+            "travel",
+            "reading"
+          ],
+          "custom": [
+            "登山",
+            "露營"
+          ]
+        },
+        "timeSlots": [
+          "morning",
+          "afternoon"
+        ],
+        "history": {
+          "createdTopics": [
+            {
+              "topicId": "042B5A2ACE1192",
+              "title": "分享戶外活動經驗",
+              "createdAt": "2024-01-20T15:00:00.000Z"
+            }
+          ],
+          "joinedTopics": [],
+          "currentActivities": []
+        }
+      },
+      "topic": {
+        "title": "分享戶外活動經驗",
+        "gmail": "daxiong@gmail.com",
+        "minAttendees": 3,
+        "registrationPoint": "B",
+        "types": {
+          "default": [
+            "hobby",
+            "sports"
+          ],
+          "custom": [
+            "戶外活動"
+          ]
+        },
+        "description": "想和大家分享登山、露營的經驗，討論裝備選擇和安全注意事項。",
+        "status": {
+          "currentAttendees": [
+            {
+              "id": "042B5A2ACE1192",
+              "nickname": "大雄"
+            }
+          ],
+          "attendeeCount": 1,
+          "host": {
+            "id": "042B5A2ACE1192",
+            "nickname": "大雄",
+            "gmail": "daxiong@gmail.com"
+          },
+          "comments": [],
+          "registrationStatus": {
+            "isOpen": true,
+            "pendingRegistrations": []
+          }
+        }
+      }
+    },
+    {
+      "cardId": "042B5A2ACE1197",
+      "timestamp": "2024-01-20T16:00:00.000Z",
+      "personalInfo": {
+        "nickname": "小光",
+        "ageRange": "18-24",
+        "occupation": "學生",
+        "interests": {
+          "default": [
+            "music",
+            "art"
+          ],
+          "custom": [
+            "吉他",
+            "創作"
+          ]
+        },
+        "timeSlots": [
+          "afternoon",
+          "evening"
+        ],
+        "history": {
+          "createdTopics": [
+            {
+              "topicId": "042B5A2ACE1197",
+              "title": "音樂創作交流",
+              "createdAt": "2024-01-20T16:00:00.000Z"
+            }
+          ],
+          "joinedTopics": [],
+          "currentActivities": []
+        }
+      },
+      "topic": {
+        "title": "音樂創作交流",
+        "gmail": "light@gmail.com",
+        "minAttendees": 4,
+        "registrationPoint": "C",
+        "types": {
+          "default": [
+            "music",
+            "art"
+          ],
+          "custom": [
+            "創作"
+          ]
+        },
+        "description": "交流音樂創作心得，分享自己的作品，討論創作技巧。",
+        "status": {
+          "currentAttendees": [
+            {
+              "id": "042B5A2ACE1197",
+              "nickname": "小光"
+            }
+          ],
+          "attendeeCount": 1,
+          "host": {
+            "id": "042B5A2ACE1197",
+            "nickname": "小光",
+            "gmail": "light@gmail.com"
+          },
+          "comments": [],
+          "registrationStatus": {
+            "isOpen": true,
+            "pendingRegistrations": []
+          }
+        }
+      }
+    },
+    {
+      "cardId": "test001",
+      "timestamp": "2024-11-12T07:32:51.531Z",
+      "personalInfo": {
+        "nickname": "話題建立者測試",
+        "ageRange": "25-34",
+        "occupation": "finance",
+        "interests": {
+          "default": [],
+          "custom": [
+            "話題建立者"
+          ]
+        },
+        "timeSlots": [
+          "morning",
+          "afternoon"
+        ],
+        "history": {
+          "createdTopics": [
+            {
+              "topicId": "test001",
+              "title": "test001的話題",
+              "createdAt": "2024-11-12T06:39:43.265Z",
+              "endedAt": "2024-11-12T07:27:12.969Z",
+              "endReason": "host_left"
+            }
+          ],
+          "joinedTopics": [
+            {
+              "topicId": "042B5A2ACE1190",
+              "title": "聊聊遠端工作的經驗",
+              "joinedAt": "2024-11-12T07:32:06.627Z"
+            }
+          ],
+          "currentActivities": [
+            {
+              "topicId": "042B5A2ACE1190",
+              "title": "聊聊遠端工作的經驗",
+              "registrationPoint": "A",
+              "registeredAt": "2024-11-12T07:31:24.276Z",
+              "completed": true,
+              "completedAt": "2024-11-12T07:32:06.627Z"
+            }
+          ]
+        },
+        "lastUpdated": "2024-11-12T06:39:43.252Z"
+      },
+      "topic": {
+        "title": "test001的話題",
+        "gmail": "test001@gmail.com",
+        "minAttendees": "2",
+        "types": {
+          "default": [
+            "society"
+          ],
+          "custom": [
+            "test001"
+          ]
+        },
+        "description": "補充說明",
+        "status": {
+          "currentAttendees": [
+            {
+              "id": "test001",
+              "nickname": "話題建立者測試"
+            }
+          ],
+          "attendeeCount": 1,
+          "host": {
+            "id": "test001",
+            "nickname": "話題建立者測試",
+            "gmail": "test001@gmail.com"
+          },
+          "comments": [],
+          "registrationStatus": {
+            "isOpen": false,
+            "pendingRegistrations": []
+          },
+          "hostLeft": true,
+          "hostLeftAt": "2024-11-12T07:27:12.968Z"
+        },
+        "createdAt": "2024-11-12T06:39:43.265Z",
+        "lastUpdated": "2024-11-12T06:39:43.265Z",
+        "registrationPoint": "D"
+      }
+    },
+    {
+      "cardId": "test002",
+      "timestamp": "2024-11-12T07:42:08.593Z",
+      "personalInfo": {
+        "nickname": "沒有話題者測試",
+        "ageRange": "18-24",
+        "occupation": "education",
+        "interests": {
+          "default": [
+            "reading",
+            "music"
+          ],
+          "custom": []
+        },
+        "timeSlots": [
+          "morning",
+          "afternoon"
+        ],
+        "history": {
+          "createdTopics": [],
+          "joinedTopics": [
+            {
+              "topicId": "042B5A2ACE1190",
+              "title": "聊聊遠端工作的經驗",
+              "joinedAt": "2024-11-12T07:35:07.537Z"
+            },
+            {
+              "topicId": "042B5A2ACE1192",
+              "title": "分享戶外活動經驗",
+              "joinedAt": "2024-11-12T07:42:08.593Z"
+            }
+          ],
+          "currentActivities": [
+            {
+              "topicId": "042B5A2ACE1190",
+              "title": "聊聊遠端工作的經驗",
+              "registrationPoint": "A",
+              "registeredAt": "2024-11-12T07:34:38.730Z",
+              "completed": true,
+              "completedAt": "2024-11-12T07:35:07.537Z"
+            },
+            {
+              "topicId": "042B5A2ACE1192",
+              "title": "分享戶外活動經驗",
+              "registrationPoint": "B",
+              "registeredAt": "2024-11-12T07:41:30.940Z",
+              "status": "pending",
+              "completed": true,
+              "completedAt": "2024-11-12T07:42:08.593Z"
+            }
+          ]
+        },
+        "lastUpdated": "2024-11-12T07:33:40.153Z"
+      },
+      "topic": null
+    }
+  ],
+  "lastUpdate": "2024-11-12T07:42:08.593Z"
+}

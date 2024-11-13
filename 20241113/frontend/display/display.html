@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>咖啡廳話題與人員顯示</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="display.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 左側：在線人員列表 -->
+        <aside class="online-users">
+            <h2><i class="fas fa-users"></i> 在線夥伴</h2>
+            <div class="users-list">
+                <!-- 用戶卡片範例 -->
+                <div class="user-card">
+                    <div class="user-avatar">
+                        <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Felix" alt="用戶頭像">
+                        <span class="status-dot"></span>
+                    </div>
+                    <div class="user-info">
+                        <h3>阿華</h3>
+                        <p><i class="fas fa-briefcase"></i> 科技業</p>
+                    </div>
+                </div>
+                <!-- 更多用戶卡片... -->
+            </div>
+        </aside>
+
+        <!-- 右側：話題列表 -->
+        <main class="topics-container">
+            <h2><i class="fas fa-comments"></i> 進行中的話題</h2>
+            <div class="topics-list">
+                <!-- 話題卡片範例 -->
+                <div class="topic-card">
+                    <div class="topic-header">
+                        <h3><i class="fas fa-coffee"></i> 聊聊遠端工作的經驗</h3>
+                        <div class="topic-tags">
+                            <span class="tag"><i class="fas fa-tag"></i> 工作</span>
+                            <span class="tag"><i class="fas fa-laptop"></i> 科技</span>
+                        </div>
+                    </div>
+                    
+                    <div class="topic-content">
+                        <p class="topic-description">
+                            分享在家工作的心得，討論如何維持工作效率和生活平衡...
+                        </p>
+                        
+                        <div class="topic-progress">
+                            <div class="progress-info">
+                                <span>目前人數：3/5</span>
+                                <span class="min-attendees">
+                                    <i class="fas fa-users"></i> 最少需要：5人
+                                </span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress" style="width: 60%"></div>
+                            </div>
+                        </div>
+
+                        <div class="topic-attendees">
+                            <div class="attendee-avatars">
+                                <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=John" 
+                                     alt="參與者" title="John">
+                                <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Mary" 
+                                     alt="參與者" title="Mary">
+                                <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Tom" 
+                                     alt="參與者" title="Tom">
+                            </div>
+                            <button class="join-btn">
+                                <i class="fas fa-plus"></i> 加入話題
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- 更多話題卡片... -->
+            </div>
+        </main>
+    </div>
+
+    <!-- 用戶詳細資訊彈窗 -->
+    <div class="modal" id="userModal">
+        <div class="modal-content">
+            <span class="close-btn"><i class="fas fa-times"></i></span>
+            <div class="user-profile">
+                <div class="profile-header">
+                    <img src="" alt="用戶頭像" class="profile-avatar">
+                    <h2 class="profile-name"></h2>
+                </div>
+                <div class="profile-info">
+                    <!-- 個人資訊將通過 JavaScript 動態填充 -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="display.js"></script>
+</body>
+</html> 
