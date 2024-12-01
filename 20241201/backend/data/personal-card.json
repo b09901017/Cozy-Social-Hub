@@ -1,0 +1,42 @@
+{
+  "13CB8028": {
+    "nickname": "小帥哥",
+    "ageRange": "18-24",
+    "occupation": "student",
+    "interests": {
+      "default": [
+        "sports"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-11-18T07:27:47.764Z"
+  },
+  "test001": {
+    "nickname": "路人1",
+    "ageRange": "45+",
+    "occupation": "finance",
+    "interests": {
+      "default": [
+        "music"
+      ],
+      "custom": []
+    },
+    "timeSlots": [
+      "afternoon"
+    ],
+    "history": {
+      "createdTopics": [],
+      "joinedTopics": [],
+      "currentActivities": []
+    },
+    "lastUpdated": "2024-11-18T07:30:52.083Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "13CB8028": {
+    "title": "約嗎",
+    "gmail": "s10355186@gmail.com",
+    "minAttendees": 2,
+    "types": {
+      "default": [
+        "life"
+      ],
+      "custom": []
+    },
+    "description": "170公分",
+    "status": {
+      "currentAttendees": [],
+      "attendeeCount": 0,
+      "host": {
+        "id": "13CB8028",
+        "nickname": "小帥哥",
+        "gmail": "s10355186@gmail.com"
+      },
+      "comments": [],
+      "registrationStatus": {
+        "isOpen": false,
+        "pendingRegistrations": []
+      },
+      "hasReachedMinimum": false,
+      "isActive": false,
+      "endReason": "host_left",
+      "hostLeft": true,
+      "hostLeftAt": "2024-11-18T07:37:01.380Z"
+    },
+    "createdAt": "2024-11-18T07:27:47.568Z",
+    "lastUpdated": "2024-11-18T07:27:47.568Z"
+  }
+}

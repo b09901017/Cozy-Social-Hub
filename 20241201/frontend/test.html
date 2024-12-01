@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>發布新文章</title>
+</head>
+<body>
+    <form action="#" method="post">
+        <!-- 個人資料區 -->
+        <div>
+            <h2>個人資料</h2>
+            <label for="username">用戶名稱：</label>
+            <input type="text" id="username" name="username" required><br><br>
+            
+            <label for="email">電子郵件：</label>
+            <input type="email" id="email" name="email" required><br><br>
+        </div>
+
+        <!-- 話題內容區 -->
+        <div>
+            <h2>話題內容</h2>
+            <label for="title">標題：</label>
+            <input type="text" id="title" name="title" required><br><br>
+            
+            <label for="content">內容：</label><br>
+            <textarea id="content" name="content" rows="5" cols="50" required></textarea><br><br>
+            
+            <label for="image">上傳圖片：</label>
+            <input type="file" id="image" name="image" accept="image/*"><br><br>
+        </div>
+
+        <!-- 分類設定區 -->
+        <div>
+            <h2>分類設定</h2>
+            <label for="category">文章分類：</label>
+            <select id="category" name="category">
+                <option value="life">生活</option>
+                <option value="food">美食</option>
+                <option value="travel">旅遊</option>
+                <option value="tech">科技</option>
+            </select><br><br>
+
+            <h3>標籤：</h3>
+            <input type="checkbox" id="tag1" name="tag1">
+            <label for="tag1">心得</label><br>
+            <input type="checkbox" id="tag2" name="tag2">
+            <label for="tag2">分享</label><br>
+            <input type="checkbox" id="tag3" name="tag3">
+            <label for="tag3">教學</label><br><br>
+        </div>
+
+        <!-- 隱私設定區 -->
+        <div>
+            <h2>隱私設定</h2>
+            <input type="radio" id="public" name="privacy" value="public" checked>
+            <label for="public">公開</label><br>
+            <input type="radio" id="friends" name="privacy" value="friends">
+            <label for="friends">僅限好友</label><br>
+            <input type="radio" id="private" name="privacy" value="private">
+            <label for="private">僅自己</label><br><br>
+        </div>
+
+        <!-- 按鈕區 -->
+        <div>
+            <input type="submit" value="發布">
+            <input type="reset" value="重設">
+        </div>
+    </form>
+</body>
+</html>
